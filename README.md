@@ -46,6 +46,11 @@ A console-based system to manage books and student records. Features include add
 A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
 🔗 [View Project](https://github.com/chandanmahajan-04)  
 
+### 🌱 NLP-powered AgriScheme Recommender  
+**Tech Stack:** Natural Language Processing (NLP), Python
+A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
+
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
 A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
