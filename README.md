@@ -8,7 +8,7 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ## 💻 TECHNICAL SKILLS  
 <div>
-    <img src="https://img.shields.io/badge/-Core%20Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-JDBC-323330?&style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +28,6 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Eclipse-2C2255?&style=for-the-badge&logo=eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
 </div>  
 
 ---
