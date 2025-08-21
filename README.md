@@ -14,8 +14,10 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AJAX-007FFF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Socket.io-010101?&style=for-the-badge&logo=socketdotio&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST%20API-02569B?&style=for-the-badge&logo=api&logoColor=white" />
 </div>  
 
