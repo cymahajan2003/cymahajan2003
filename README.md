@@ -41,6 +41,9 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 A console-based system to manage books and student records. Features include adding books, issuing/returning books, and managing student details.  
 🔗 [View Project](https://github.com/chandanmahajan-04)  
 
+![Library Management Screenshot](https://via.placeholder.com/600x350.png?text=Library+Management+System)
+
+
 ### 💬 Real-Time Multilingual Messaging  
 **Tech Stack:** HTML, CSS, JavaScript, Socket.io, Node.js, REST API  
 A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
