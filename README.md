@@ -52,6 +52,8 @@ A real-time messaging platform that automatically translates messages into diffe
 🔗 [View Project](https://github.com/chandanmahajan-04)  
 
 ![Messaging App Screenshot](https://via.placeholder.com/600x350.png?text=Messaging+Application)
+![BI Architecture](https://your-uploaded-image-link.com)
+
 
 ---
 
