@@ -53,16 +53,6 @@ A web-based application that provides **real-time weather updates**. Users can s
 
 ---
 
-
-### 🌦️ Weather Application  
-**Tech Stack:** HTML, CSS, JavaScript, REST API  
-A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
-🔗 [View Project](https://github.com/chandanmahajan-04)  
-
-![Weather App Screenshot](https://via.placeholder.com/600x350.png?text=Weather+Application)
-
----
-
 ## 📞 CONTACT  
 <a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
