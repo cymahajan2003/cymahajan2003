@@ -48,7 +48,8 @@ A real-time messaging platform that automatically translates messages into diffe
 
 ### 🌱 NLP-powered AgriScheme Recommender  
 **Tech Stack:** Natural Language Processing (NLP), Python
-A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
+A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their
+purpose (e.g., irrigation, crop insurance, subsidies, loans).  
 🔗 [View Project](https://github.com/cymahajan2003/NLP_PROJECT.git)  
 
 ### 🌦️ Weather Application  
