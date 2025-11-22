@@ -33,7 +33,6 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 </div>  
 
 ---
-
 ## 📂 PROJECTS  
 
 ### 💬 SAMVAD - Real-Time Multilingual Messaging  
@@ -41,33 +40,43 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
 🔗 [View Project](https://github.com/cymahajan2003/SAMVAD_CHAT-APP.git)  
 
-### 📚  Smart Hospital Queue & Appointment System  
+---
+
+### 🏥 Smart Hospital Queue & Appointment System  
 **Tech Stack:** Core Java, JDBC, MySQL  
-Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized.
+Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a real-time queue display so patients can track their turn. Hospital staff have a separate login to manage appointments and update queue numbers, making the process smooth and organized.  
 🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
 
+---
+
 ### 🌱 NLP-powered AgriScheme Recommender  
-**Tech Stack:** Natural Language Processing (NLP), Python                                                        
-A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
+**Tech Stack:** Natural Language Processing (NLP), Python  
+A search engine designed for farmers where users can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
 🔗 [View Project](https://github.com/cymahajan2003/Agri-Scheme-Recomender.git)  
 
-### 😊 Sentiment Analysis System
-**Tech Stack:** Natural Language Processing (NLP), Python                                                        
-An NLP-based machine learning project that analyzes text and detects the sentiment behind it. It classifies user input into positive, negative, or neutral to support tasks like reviews and feedback analysis.
+---
+
+### 😊 Sentiment Analysis System  
+**Tech Stack:** Natural Language Processing (NLP), Python  
+An NLP-based machine learning system that analyzes text and detects its sentiment. It classifies user input as **positive, negative, or neutral**, making it suitable for reviews and automated feedback analysis.  
 🔗 [View Project](https://github.com/cymahajan2003/Sentiment_Analysis.git)  
+
+---
 
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
-A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
-
+A web-based application providing **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecast details.  
 🔗 [View Project](https://github.com/cymahajan2003)  
 
-### BMI Calculator
-**Tech Stack:** HTML, CSS, JavaScript
-An interactive BMI calculator built with HTML, CSS, and JavaScript that computes Body Mass Index from user-provided height and weight.
-🔗 [View Project](https://github.com/cymahajan2003/BMI-Calculator.git) 
+---
+
+### ⚖️ BMI Calculator  
+**Tech Stack:** HTML, CSS, JavaScript  
+An interactive BMI calculator built with HTML, CSS, and JavaScript that computes Body Mass Index based on user-provided height and weight input.  
+🔗 [View Project](https://github.com/cymahajan2003/BMI-Calculator.git)  
 
 ---
+
 
 ## 📞 CONTACT  
 <a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
