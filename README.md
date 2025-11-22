@@ -43,14 +43,12 @@ A real-time messaging platform that automatically translates messages into diffe
 
 ### 📚  Smart Hospital Queue & Appointment System  
 **Tech Stack:** Core Java, JDBC, MySQL  
-Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue
- numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized
+Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized
 🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
 
 ### 🌱 NLP-powered AgriScheme Recommender  
 **Tech Stack:** Natural Language Processing (NLP), Python                                                        
-A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their
-purpose (e.g., irrigation, crop insurance, subsidies, loans).  
+A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
 🔗 [View Project](https://github.com/cymahajan2003/Agri-Scheme-Recomender.git)  
 
 ### 😊 Sentiment Analysis System
