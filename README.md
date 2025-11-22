@@ -1,8 +1,5 @@
 #  HELLO I AM CHANDAN MAHAJAN  
-
-I am currently pursuing **B.Tech in Information Technology** with a strong foundation in **Core Java, JDBC, and MySQL**, complemented by front-end skills in **HTML, CSS, and JavaScript**.  
-
-I am passionate about **solving challenging problems**, writing **clean and efficient code**, and building projects that deliver **real-world value**. With a continuous learning mindset, I strive to grow as a **developer and problem solver**, while expanding my expertise in modern technologies.  
+Hi, I'm Chandan — a B.Tech IT student who enjoys building practical and user-friendly software. I like working on Java development, web-based applications, and NLP projects where technology can solve real problems and improve user experience. I’m always exploring new concepts, writing better code, and learning through hands-on projects. My goal is to grow as a developer, contribute to meaningful work, and continue improving my technical and problem-solving abilities.
 
 ---
 
