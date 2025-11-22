@@ -35,46 +35,41 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     <img src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 </div>  
 
----
 ## 📂 PROJECTS  
+
+---
 
 ### 💬 SAMVAD - Real-Time Multilingual Messaging  
 **Tech Stack:** HTML, CSS, JavaScript, Socket.io, Node.js, REST API  
-A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
-🔗 [View Project](https://github.com/cymahajan2003/SAMVAD_CHAT-APP.git)  
-
+A real-time messaging platform that automatically translates messages into multiple languages to enable smooth communication — especially helpful for **speech and hearing-impaired users**.  
+🔗 **Project Link:** https://github.com/cymahajan2003/SAMVAD_CHAT-APP.git
 
 ### 🏥 Smart Hospital Queue & Appointment System  
-**Tech Stack:**  Java, JSP, Servlet, JDBC, MySQL, Tomcat 
-Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a real-time queue display so patients can track their turn. Hospital staff have a separate login to manage appointments and update queue numbers, making the process smooth and organized.  
-🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
-
+**Tech Stack:** Java, JSP, Servlet, JDBC, MySQL, Tomcat  
+Developed a web-based hospital system where patients can book appointments online and track their position in a live queue. Includes a dedicated admin panel for hospital staff to manage appointments and update queue status.  
+🔗 **Project Link:** https://github.com/cymahajan2003/hospital-queue-system.git  
 
 ### 🌱 NLP-powered AgriScheme Recommender  
 **Tech Stack:** Natural Language Processing (NLP), Python  
-A search engine designed for farmers where users can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
-🔗 [View Project](https://github.com/cymahajan2003/Agri-Scheme-Recomender.git)  
-
+A smart search system built for farmers where users enter simple text queries, and the platform recommends accurate government schemes based on purpose, category, and region (e.g., subsidies, irrigation, loans).  
+🔗 **Project Link:** https://github.com/cymahajan2003/Agri-Scheme-Recomender.git  
 
 ### 😊 Sentiment Analysis System  
 **Tech Stack:** Natural Language Processing (NLP), Python  
-An NLP-based machine learning system that analyzes text and detects its sentiment. It classifies user input as **positive, negative, or neutral**, making it suitable for reviews and automated feedback analysis.  
-🔗 [View Project](https://github.com/cymahajan2003/Sentiment_Analysis.git)  
-
+An NLP-based sentiment classifier that analyzes text and categorizes it as **positive, negative, or neutral**, making it suitable for user feedback, product reviews, and automated analysis.  
+🔗 **Project Link:** https://github.com/cymahajan2003/Sentiment_Analysis.git  
 
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
-A web-based application providing **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecast details.  
-🔗 [View Project](https://github.com/cymahajan2003)  
-
+A lightweight web app that fetches **real-time weather data** and displays temperature, humidity, and weather conditions based on the location entered by the user.  
+🔗 **Project Link:** https://github.com/cymahajan2003  
 
 ### ⚖️ BMI Calculator  
 **Tech Stack:** HTML, CSS, JavaScript  
-An interactive BMI calculator built with HTML, CSS, and JavaScript that computes Body Mass Index based on user-provided height and weight input.  
-🔗 [View Project](https://github.com/cymahajan2003/BMI-Calculator.git)  
+A simple and interactive web-based BMI calculator that processes user height and weight inputs and returns category-based health recommendations.  
+🔗 **Project Link:** https://github.com/cymahajan2003/BMI-Calculator.git  
 
 ---
-
 
 ## 📞 CONTACT  
 <a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
