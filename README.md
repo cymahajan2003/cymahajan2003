@@ -9,6 +9,8 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 ## 💻 TECHNICAL SKILLS  
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JSP-FF9800?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-JDBC-323330?&style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,13 +25,14 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ---
 
-## 🧰 TOOLS  
-<div>
+## 🧰 SERVER AND TOOLS  
+<div style="display:flex; flex-wrap: wrap; gap:10px;">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?&style=for-the-badge&logo=intellijidea&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Eclipse-2C2255?&style=for-the-badge&logo=eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 </div>  
 
 ---
@@ -40,35 +43,30 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
 🔗 [View Project](https://github.com/cymahajan2003/SAMVAD_CHAT-APP.git)  
 
----
 
 ### 🏥 Smart Hospital Queue & Appointment System  
-**Tech Stack:** Core Java, JDBC, MySQL  
+**Tech Stack:**  Java, JSP, Servlet, JDBC, MySQL, Tomcat 
 Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a real-time queue display so patients can track their turn. Hospital staff have a separate login to manage appointments and update queue numbers, making the process smooth and organized.  
 🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
 
----
 
 ### 🌱 NLP-powered AgriScheme Recommender  
 **Tech Stack:** Natural Language Processing (NLP), Python  
 A search engine designed for farmers where users can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their purpose (e.g., irrigation, crop insurance, subsidies, loans).  
 🔗 [View Project](https://github.com/cymahajan2003/Agri-Scheme-Recomender.git)  
 
----
 
 ### 😊 Sentiment Analysis System  
 **Tech Stack:** Natural Language Processing (NLP), Python  
 An NLP-based machine learning system that analyzes text and detects its sentiment. It classifies user input as **positive, negative, or neutral**, making it suitable for reviews and automated feedback analysis.  
 🔗 [View Project](https://github.com/cymahajan2003/Sentiment_Analysis.git)  
 
----
 
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
 A web-based application providing **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecast details.  
 🔗 [View Project](https://github.com/cymahajan2003)  
 
----
 
 ### ⚖️ BMI Calculator  
 **Tech Stack:** HTML, CSS, JavaScript  
