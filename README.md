@@ -36,26 +36,37 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ## 📂 PROJECTS  
 
-### 📚 Library Management System  
-**Tech Stack:** Core Java, JDBC, MySQL  
-A console-based system to manage books and student records. Features include adding books, issuing/returning books, and managing student details.  
-🔗 [View Project](https://github.com/cymahajan2003)  
-
 ### 💬 SAMVAD - Real-Time Multilingual Messaging  
 **Tech Stack:** HTML, CSS, JavaScript, Socket.io, Node.js, REST API  
 A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
-🔗 [View Project](https://github.com/cymahajan2003)  
+🔗 [View Project](https://github.com/cymahajan2003/SAMVAD_CHAT-APP.git)  
+
+### 📚  Smart Hospital Queue & Appointment System  
+**Tech Stack:** Core Java, JDBC, MySQL  
+Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue
+ numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized
+🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
 
 ### 🌱 NLP-powered AgriScheme Recommender  
 **Tech Stack:** Natural Language Processing (NLP), Python                                                        
 A search engine for government schemes designed for farmers. Farmers (or users) can type their needs, and the system intelligently recommends relevant government schemes available in their state and for their
 purpose (e.g., irrigation, crop insurance, subsidies, loans).  
-🔗 [View Project](https://github.com/cymahajan2003/NLP_PROJECT.git)  
+🔗 [View Project](https://github.com/cymahajan2003/Agri-Scheme-Recomender.git)  
+
+### 😊 Sentiment Analysis System
+**Tech Stack:** Natural Language Processing (NLP), Python                                                        
+An NLP-based machine learning project that analyzes text and detects the sentiment behind it. It classifies user input into positive, negative, or neutral to support tasks like reviews and feedback analysis.
+🔗 [View Project](https://github.com/cymahajan2003/Sentiment_Analysis.git)  
 
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
 A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
 🔗 [View Project](https://github.com/cymahajan2003)  
+
+### BMI Calculator
+**Tech Stack:** HTML, CSS, JavaScript
+An interactive BMI calculator built with HTML, CSS, and JavaScript that computes Body Mass Index from user-provided height and weight.
+🔗 [View Project](https://github.com/cymahajan2003/BMI-Calculator.git) 
 
 ---
 
