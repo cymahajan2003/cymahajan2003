@@ -43,7 +43,7 @@ A real-time messaging platform that automatically translates messages into diffe
 
 ### 📚  Smart Hospital Queue & Appointment System  
 **Tech Stack:** Core Java, JDBC, MySQL  
-Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized
+Created a web system where patients can book hospital appointments online instead of visiting the hospital. Added a feature to show real-time queue status, so patients know their turn. Built separate login for hospital staff to manage appointments and update queue numbers. The system helped reduce long waiting lines and made hospital operations smoother and more organized.
 🔗 [View Project](https://github.com/cymahajan2003/hospital-queue-system.git)  
 
 ### 🌱 NLP-powered AgriScheme Recommender  
@@ -59,6 +59,7 @@ An NLP-based machine learning project that analyzes text and detects the sentime
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
 A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
+
 🔗 [View Project](https://github.com/cymahajan2003)  
 
 ### BMI Calculator
