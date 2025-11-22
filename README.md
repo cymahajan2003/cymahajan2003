@@ -1,5 +1,5 @@
 #  HELLO I AM CHANDAN MAHAJAN  
-Hi, I'm Chandan — a B.Tech IT student who enjoys building practical and user-friendly software. I like working on Java development, web-based applications, and NLP projects where technology can solve real problems and improve user experience. I’m always exploring new concepts, writing better code, and learning through hands-on projects. My goal is to grow as a developer, contribute to meaningful work, and continue improving my technical and problem-solving abilities.
+B.Tech IT student who enjoys building practical and user-friendly software. I like working on Java development, web-based applications, and NLP projects where technology can solve real problems and improve user experience. I’m always exploring new concepts, writing better code, and learning through hands-on projects. My goal is to grow as a developer, contribute to meaningful work, and continue improving my technical and problem-solving abilities.
 
 ---
 
