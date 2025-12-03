@@ -68,8 +68,9 @@ A simple and interactive web-based BMI calculator that processes user height and
 
 ### ⚖️ Tic-Tac-Toe Game  
 **Tech Stack:** HTML, CSS, JavaScript  
-A responsive Tic-Tac-Toe game demonstrating core JavaScript concepts including DOM manipulation, event handling, state management, and array methods through interactive gameplay with customizable emoji icons.
-🔗 **Project Link:** https://cymahajan2003.github.io/TicTacToe/
+A responsive Tic-Tac-Toe game demonstrating core JavaScript concepts including DOM manipulation, event handling, state management, and array methods through interactive gameplay with customizable emoji icons.  
+🔗 **Project Link:** https://cymahajan2003.github.io/TicTacToe/  
+
 ---
 
 ## 📞 CONTACT  
