@@ -56,6 +56,11 @@ A smart search system built for farmers where users enter simple text queries, a
 An NLP-based sentiment classifier that analyzes text and categorizes it as **positive, negative, or neutral**, making it suitable for user feedback, product reviews, and automated analysis.  
 🔗 **Project Link:** https://github.com/cymahajan2003/Sentiment_Analysis.git  
 
+### 🎮 Tic-Tac-Toe Game  
+**Tech Stack:** HTML, CSS, JavaScript  
+A responsive Tic-Tac-Toe game demonstrating core JavaScript concepts including DOM manipulation, event handling, state management, and array methods through interactive gameplay with customizable emoji icons.  
+🔗 **Project Link:** https://cymahajan2003.github.io/TicTacToe/  
+
 ### 🌦️ Weather Application  
 **Tech Stack:** HTML, CSS, JavaScript, REST API  
 A lightweight web app that fetches **real-time weather data** and displays temperature, humidity, and weather conditions based on the location entered by the user.  
@@ -65,11 +70,6 @@ A lightweight web app that fetches **real-time weather data** and displays tempe
 **Tech Stack:** HTML, CSS, JavaScript  
 A simple and interactive web-based BMI calculator that processes user height and weight inputs and returns category-based health recommendations.  
 🔗 **Project Link:** https://github.com/cymahajan2003/BMI-Calculator.git  
-
-### 🎮 Tic-Tac-Toe Game  
-**Tech Stack:** HTML, CSS, JavaScript  
-A responsive Tic-Tac-Toe game demonstrating core JavaScript concepts including DOM manipulation, event handling, state management, and array methods through interactive gameplay with customizable emoji icons.  
-🔗 **Project Link:** https://cymahajan2003.github.io/TicTacToe/  
 
 ---
 
