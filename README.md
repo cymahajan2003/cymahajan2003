@@ -66,6 +66,10 @@ A lightweight web app that fetches **real-time weather data** and displays tempe
 A simple and interactive web-based BMI calculator that processes user height and weight inputs and returns category-based health recommendations.  
 🔗 **Project Link:** https://github.com/cymahajan2003/BMI-Calculator.git  
 
+### ⚖️ Tic-Tac-Toe Game  
+**Tech Stack:** HTML, CSS, JavaScript  
+A responsive Tic-Tac-Toe game demonstrating core JavaScript concepts including DOM manipulation, event handling, state management, and array methods through interactive gameplay with customizable emoji icons.
+🔗 **Project Link:** https://cymahajan2003.github.io/TicTacToe/
 ---
 
 ## 📞 CONTACT  
