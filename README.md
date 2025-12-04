@@ -69,7 +69,7 @@ A lightweight web app that fetches **real-time weather data** and displays tempe
 ### ⚖️ BMI Calculator  
 **Tech Stack:** HTML, CSS, JavaScript  
 A simple and interactive web-based BMI calculator that processes user height and weight inputs and returns category-based health recommendations.  
-🔗 **Project Link:** https://github.com/cymahajan2003/BMI-Calculator.git  
+🔗 **Project Link:** https://cymahajan2003.github.io/BMI_Calculator/  
 
 ---
 
