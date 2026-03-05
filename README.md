@@ -1,14 +1,9 @@
 # Hi 👋, I'm Chandan Mahajan
 
 ## ℹ️ About Me
-- Final Year **B.Tech IT Student**
 - Currently learning **JavaScript**
 - Practicing **Data Structures & Algorithms**
 - Interested in building **creative web applications and UI projects**
-
-## Current Project
-- **[AI-Powered Academic Resource Hub (Padh.AI)](https://github.com/cymahajan2003/Padh.AI)**
-
 
 ## Tech Stack
 
@@ -38,6 +33,10 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </p>
+
+
+## Current Project
+- **[AI-Powered Academic Resource Hub (Padh.AI)](https://github.com/cymahajan2003/Padh.AI)**
 
 
 ## Contact
