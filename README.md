@@ -1,28 +1,44 @@
-# Hi 👋 I'm Chandan Mahajan
+## ℹ️ About Me
 
-### What I'm doing
-- Improving JavaScript fundamentals
-- Practicing Data Structures & Algorithms
-- Building creative web applications
-- Learning backend development with Node.js
+- 🎓 Final Year **B.Tech IT Student**
+- 💻 Learning **JavaScript** and improving problem-solving
+- ⚙️ Practicing **Data Structures & Algorithms in JavaScript**
+- 🎨 Interested in building **creative web applications & UI projects**
+- 🚀 Currently working on **AI-Powered Academic Resource Hub (Padh.AI)**
 
-### Current Project
-🔹 AI-Powered Academic Resource Hub (Padh.AI)  
-🔗 https://github.com/cymahajan2003/padh-ai
+🔗 Project Repo:  
+https://github.com/cymahajan2003/padh-ai
 
 
-### Tech Stack
+## 🎯 My Skills
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/AJAX-00599C?style=flat"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+
+</p>
+
+
+## 📬 Contact Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chandan-mahajan-751790254/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:chandanmahajan2003@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail.png" height="40"/>
+</a>
+
+<a href="https://github.com/cymahajan2003">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
