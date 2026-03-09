@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chandan Mahajan
 
 ## ℹ️ About Me
-- Currently learning **JavaScript**
+- Currently learning **Java & JavaScript**
 - Practicing **Data Structures & Algorithms**
 - Interested in building **creative web applications and UI projects**
 
